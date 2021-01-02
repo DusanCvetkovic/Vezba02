@@ -1,0 +1,29 @@
+.clanak 
+{
+	width: 600px;
+}
+
+.clanak h1
+{
+	font-style: italic;
+}
+
+#prvi h1
+{
+	color: green;
+}
+
+#drugi h1
+{
+	color: blue;
+}
+
+.clanak p
+{
+	width: 70%;
+}
+
+.clanak img
+{
+	width: 30%;
+}
